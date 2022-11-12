@@ -2,7 +2,7 @@
 
 namespace Techunico\BulkSmsSender;
 
-require '../vendor/autoload.php';
+//require '../vendor/autoload.php';
 
 use Curl\Curl;
 
