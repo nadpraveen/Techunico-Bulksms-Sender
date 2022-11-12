@@ -2,6 +2,7 @@
     "name": "techunico/bulk_sms_sender",
     "description": "This library is to send bulk from Techunico Bulk sms Portal seemlesly with minimum code, Just Import download the packge and use the class",
     "type": "library",
+    "license": "MIT",
     "require": {
         "curl/curl": "^2.4"
     },
